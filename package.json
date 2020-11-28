@@ -5,7 +5,7 @@
   "sideEffects": "false",
   "homepage": "https://pulsifer.ca",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.11",
     "@shopify/polaris": "^5.10.0",
