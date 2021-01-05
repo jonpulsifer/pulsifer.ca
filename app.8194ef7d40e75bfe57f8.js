@@ -5386,7 +5386,7 @@ module.exports = function (urlString) {
 // extracted by mini-css-extract-plugin
 
     if(true) {
-      // 1609533816652
+      // 1609875676344
       var cssReload = __webpack_require__(4783)(module.id, {"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -6028,7 +6028,7 @@ if (true) {
 
 /***/ }),
 
-/***/ 7290:
+/***/ 8107:
 /***/ (function(__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -15295,8 +15295,8 @@ function Link({
 
 ;// CONCATENATED MODULE: ./src/foundation/images/avatar-250.png
 /* harmony default export */ var avatar_250 = (__webpack_require__.p + "e5f271961e9ec4dc2c111298d6d0c42d.png");
-;// CONCATENATED MODULE: ./src/foundation/images/nyancat.gif
-/* harmony default export */ var nyancat = (__webpack_require__.p + "69c9628c463729fc5f2518faedbcfd12.gif");
+;// CONCATENATED MODULE: ./src/foundation/images/nyan_jawn.gif
+/* harmony default export */ var nyan_jawn = (__webpack_require__.p + "5a0ec688c7811d8460ababb5575039fa.gif");
 ;// CONCATENATED MODULE: ./node_modules/@shopify/polaris-icons/dist/icons/MinusMinor.svg.mjs
 
 
@@ -23433,7 +23433,7 @@ function App() {
                                 react.createElement(ThingsICareAbout, null)))),
                     react.createElement(Layout.Section, null,
                         react.createElement("div", { style: { margin: 'auto', textAlign: 'center' } },
-                            react.createElement("img", { src: nyancat, alt: "Nyan Cat", style: { width: '100%' } })))),
+                            react.createElement("img", { src: nyan_jawn, alt: "Nyan Cat", style: { width: '100%' } })))),
                 react.createElement(FooterHelp, null,
                     "Built with",
                     ' ',
@@ -23801,7 +23801,7 @@ function __classPrivateFieldSet(receiver, privateMap, value) {
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "8f1b092c788986741028"; }
+/******/ 		__webpack_require__.h = function() { return "62f7e5a3fe6134ef1bd9"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -24846,7 +24846,7 @@ function __classPrivateFieldSet(receiver, privateMap, value) {
 /******/ 	// module cache are used so entry inlining is disabled
 /******/ 	// startup
 /******/ 	// Load entry module
-/******/ 	__webpack_require__(7290);
+/******/ 	__webpack_require__(8107);
 /******/ })()
 ;
-//# sourceMappingURL=app.15ea3ccc1d388813d2c0.js.map
+//# sourceMappingURL=app.8194ef7d40e75bfe57f8.js.map
