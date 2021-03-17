@@ -6,7 +6,7 @@
   "homepage": "https://pulsifer.ca",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
-    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@shopify/polaris": "^5.12.0",
     "@shopify/typescript-configs": "^3.0.2",
