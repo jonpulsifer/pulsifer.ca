@@ -1155,24 +1155,25 @@
   resolved "https://registry.yarnpkg.com/@shopify/polaris-icons/-/polaris-icons-4.1.0.tgz#296ff47d22b52cb1592e2fa81a609f8f3c912eb0"
   integrity sha512-U5ODhOJtfYHJskYUknceIjpF+EhHdMQJ54HSWsjuHAapCWbmA8ROVonAnDEM+cWeEVinpPZzQd2nE/DVJUmKkw==
 
-"@shopify/polaris-tokens@^2.15.0":
-  version "2.15.0"
-  resolved "https://registry.yarnpkg.com/@shopify/polaris-tokens/-/polaris-tokens-2.15.0.tgz#89c171611379a7bd1cd33bb6fca4370c853c78b4"
-  integrity sha512-+KGwQDfHmv8fYKkGwij3ESmqY0IkOnbENkUHCf8te/p6o1IhGu31uZT5pA4BsZR5ag7rcGAx7DK8HoqeBj/izQ==
+"@shopify/polaris-tokens@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@shopify/polaris-tokens/-/polaris-tokens-3.0.0.tgz#7e6a6d3ac3fa2ba75a19f9bd5db260f904758844"
+  integrity sha512-6ClNAkklttSqtGtBTSoSX+RG3M2fLX8nh6YMKvG6eLRMfkPAFq19krh8jgJ3+8uUqgdmA3VvNFYnNxbdyqbrQQ==
   dependencies:
     hsluv "^0.1.0"
-    tslib "^1.10.0"
+    tslib "^1.14.1"
 
-"@shopify/polaris@^5.12.0":
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-5.12.0.tgz#a2ae40017c6c13a8d37f1e431001a58a3f87e6d5"
-  integrity sha512-yNKDbOdlEVjszcuEyix5euV/YkrZpwoQaKEKPhzLRq5vJ4efCQeLh5l5le0czQ3bwJnF7xkoyehELi5gUv2FSw==
+"@shopify/polaris@^6.2.1":
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/@shopify/polaris/-/polaris-6.2.1.tgz#9920efb49d5efd4d6a37f60ba464a6fff65a1c99"
+  integrity sha512-0ampeq31DWuS54Tngb+TwZ3Fplj/ukboHz94ouP+HAkMMczaTQ/SPB3PapDYhBl+WlL+eobLzF1wUSxj8KnePA==
   dependencies:
     "@shopify/polaris-icons" "^4.1.0"
-    "@shopify/polaris-tokens" "^2.15.0"
+    "@shopify/polaris-tokens" "^3.0.0"
     "@types/react" "^16.9.12"
     "@types/react-dom" "^16.9.4"
     "@types/react-transition-group" "^4.4.0"
+    focus-visible "^5.2.0"
     lodash "^4.17.4"
     react-transition-group "^4.4.1"
 
@@ -3515,6 +3516,11 @@ find-up@^5.0.0:
   dependencies:
     locate-path "^6.0.0"
     path-exists "^4.0.0"
+
+focus-visible@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/focus-visible/-/focus-visible-5.2.0.tgz#3a9e41fccf587bd25dcc2ef045508284f0a4d6b3"
+  integrity sha512-Rwix9pBtC1Nuy5wysTmKy+UjbDJpIfg8eHjw0rjZ1mX4GNLz1Bmd16uDpI3Gk1i70Fgcs8Csg2lPm8HULFg9DQ==
 
 follow-redirects@^1.0.0:
   version "1.12.1"
