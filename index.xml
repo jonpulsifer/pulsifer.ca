@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pulsifer.ca</title><link>/</link><description>Recent content on pulsifer.ca</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2022 Jonathan Pulsifer</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>contact me</title><link>/contact/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>/contact/</guid><description>your best bet is probably email, but i&amp;rsquo;m also terrible at that since i&amp;rsquo;m a millenial and am socially avoidant while stressed
-email: jonathan [at] pulsifer.ca github.com/jonpulsifer linkedin.com/in/jonpulsifer twitter.com/jonpulsifer</description><content>&lt;p>your best bet is probably email, but i&amp;rsquo;m also terrible at that since i&amp;rsquo;m a millenial and am socially avoidant while stressed&lt;/p>
-&lt;ul>
-&lt;li>email: &lt;code>jonathan [at] pulsifer.ca&lt;/code>&lt;/li>
-&lt;li>&lt;a href="https://github.com/jonpulsifer">github.com/jonpulsifer&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ca.linkedin.com/in/jonpulsifer">linkedin.com/in/jonpulsifer&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://twitter.com/jonpulsifer">twitter.com/jonpulsifer&lt;/a>&lt;/li>
-&lt;/ul></content></item><item><title>whoami</title><link>/whoami/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>/whoami/</guid><description>greetings hi, i&amp;rsquo;m @jonpulsifer and i like computers ^__^
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pulsifer.ca</title><link>/</link><description>Recent content on pulsifer.ca</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>whoami</title><link>/whoami/</link><pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate><guid>/whoami/</guid><description>greetings hi, i&amp;rsquo;m @jonpulsifer and i like computers ^__^
 this is my personal website. here you&amp;rsquo;ll usually find some semblance of a blog, welcome page, or otherwise a way to contact me.
-I work^W used to work at Shopify as a Staff Security Engineer where I was the technical lead for Cloud Security with a focus on Kubernetes and Google Cloud Platform before making the switch to Security Incident Response.</description><content>&lt;h1 id="greetings">greetings&lt;/h1>
-&lt;p>hi, i&amp;rsquo;m &lt;strong>@jonpulsifer&lt;/strong> and i like computers ^__^&lt;/p>
-&lt;p>this is my personal website. here you&amp;rsquo;ll usually find some semblance of a blog, welcome page, or otherwise a way to contact me.&lt;/p>
-&lt;p>I work^W used to work at &lt;a href="https://shopify.ca">&lt;strong>Shopify&lt;/strong>&lt;/a> as a &lt;strong>Staff Security Engineer&lt;/strong> where I was the technical lead for Cloud Security with a focus on Kubernetes and Google Cloud Platform before making the switch to Security Incident Response.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>$ id
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uid&lt;span style="color:#f92672">=&lt;/span>1337&lt;span style="color:#f92672">(&lt;/span>jawn&lt;span style="color:#f92672">)&lt;/span> gid&lt;span style="color:#f92672">=&lt;/span>1337&lt;span style="color:#f92672">(&lt;/span>jawn&lt;span style="color:#f92672">)&lt;/span> groups&lt;span style="color:#f92672">=&lt;/span>1337&lt;span style="color:#f92672">(&lt;/span>jawn&lt;span style="color:#f92672">)&lt;/span>,27&lt;span style="color:#f92672">(&lt;/span>sudo&lt;span style="color:#f92672">)&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ finger jawn
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Login: jawn Name: Jonathan Pulsifer
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Directory: /home/jawn Shell: /bin/zsh
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Office: Remote
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>PGP key:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">&amp;#39;0x0472D3B3F5012430&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Project:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">&amp;#39;Funemployment&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Plan:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#e6db74">&amp;#39;Get internet, then get a new job&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></content></item></channel></rss>
+I work^W used to work at Shopify as a Staff Security Engineer where I was the technical lead for Cloud Security with a focus on Kubernetes and Google Cloud Platform before making the switch to Security Incident Response.</description></item></channel></rss>
